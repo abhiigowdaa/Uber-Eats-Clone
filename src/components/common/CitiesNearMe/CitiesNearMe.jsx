@@ -34,40 +34,39 @@ const CitiesNearMe = () => {
       <div className="max-w-7xl mx-auto overflow-x-auto pb-8">
         <div className="grid grid-cols-4 min-w-[1100px] gap-x-24 gap-y-8 text-base leading-8 text-gray-800">
           <ul className="space-y-6">
-            <li>Bridgeport</li>
-            <li>Concord</li>
-            <li>Dayton</li>
-            <li>El Paso</li>
-            <li>Fort Lauderdale</li>
-            <li>Fresno</li>
-          </ul>
+            <li>Mumbai</li>
+            <li>Delhi</li>
+            <li>Bengaluru</li>
+            <li>Hyderabad</li>
+            <li>Ahmedabad</li>
+            <li>Pune</li>
+        </ul>
 
-          <ul className="space-y-6">
-            <li>Indianapolis</li>
-            <li>McAllen</li>
-            <li>Mesa</li>
-            <li>Milwaukee</li>
-            <li>Minneapolis</li>
-            <li>Moreno Valley</li>
-          </ul>
+        <ul className="space-y-6">
+  <li>Chennai</li>
+  <li>Kolkata</li>
+  <li>Jaipur</li>
+  <li>Surat</li>
+  <li>Lucknow</li>
+  <li>Kanpur</li>
+</ul>
+<ul className="space-y-6">
+  <li>Indore</li>
+  <li>Goa</li>
+  <li>Nagpur</li>
+  <li>Bhopal</li>
+  <li>Patna</li>
+  <li>Vadodara</li>
+</ul>
 
-          <ul className="space-y-6">
-            <li>Oklahoma City</li>
-            <li>Omaha</li>
-            <li>Orlando</li>
-            <li>Palm Bay</li>
-            <li>Pittsburgh</li>
-            <li>Portland</li>
-          </ul>
-
-          <ul className="space-y-6">
-            <li>San Antonio</li>
-            <li>Stony Brook</li>
-            <li>Tucson</li>
-            <li>West Hollywood</li>
-            <li>Worcester</li>
-            <li>Yonkers</li>
-          </ul>
+         <ul className="space-y-6">
+  <li>Visakhapatnam</li>
+  <li>Ludhiana</li>
+  <li>Agra</li>
+  <li>Varanasi</li>
+  <li>Coimbatore</li>
+  <li>Thiruvananthapuram</li>
+</ul>
         </div>
       </div>
 
